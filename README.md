@@ -1,5 +1,5 @@
 ## 使用规则
-复制.cursor下的rules目录到uni-app-x项目根目录下
+复制.cursor目录到uni-app-x项目根目录下
 
 ## 使用mcp
 
