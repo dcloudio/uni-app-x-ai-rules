@@ -1,0 +1,19 @@
+{
+    "inputs": [
+        // The "inputs" section defines the inputs required for the MCP server configuration.
+        {
+            "type": "promptString",
+            "id": "mcp:projectPath",
+            "description": "Enter the projectPath",
+        }
+    ],
+    "servers": {
+        // The "servers" section defines the MCP servers you want to use.
+        "uni-app-x": {
+            "command": "npx",
+            "args": [
+                "uni-app-x-mcp"
+            ]
+        }
+    }
+}

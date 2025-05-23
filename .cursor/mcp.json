@@ -1,13 +1,10 @@
 {
     "mcpServers": {
-        "server-name": {
-            "command": "node",
+        "uni-app-x": {
+            "command": "npx",
             "args": [
-                "/Users/gongyanan/study/mcp/out/bundle.js"
-            ],
-            "env": {
-                "API_KEY": "value"
-            }
+                "uni-app-x-mcp"
+            ]
         }
     }
 }
