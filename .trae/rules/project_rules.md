@@ -96,7 +96,7 @@ uni-app x项目使用UTS语言编写script。 UTS是一种跨平台的强类型�
     - 尽量不使用any。
     - 尽量不使用 === 和!==， 使用 == 和!= 替代。
     - 不使用js的原型链特性。
-    - 严格遵守“先定义后使用”的规则。使用代码在定义代码之后。
+    - 严格遵守“先定义后使用”的规则。使用代码在定义代码之前。
     - 更多参考：[uts与ts的差异](https://doc.dcloud.net.cn/uni-app-x/uts/uts_diff_ts.html)
     
 # css rules
