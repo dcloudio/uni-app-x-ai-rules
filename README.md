@@ -14,3 +14,6 @@
 1. 与.cursor配置相同，
 2. 不过目前trae官方并没有支持在.trae目录中配置mcp.json，官方提供了手动配置方式，是配置在全局的，
 但mcp.json的内容是一样的，可以直接使用
+
+## .agent目录是Google Antigravity的专用优化目录
+1. 与.trae配置相同
