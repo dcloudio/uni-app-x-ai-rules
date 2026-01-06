@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "uni-app-x-mcp": {
+      "command": "npx",
+      "args": ["-y", "@dcloudio/uni-app-x-mcp"]
+    }
+  }
+}

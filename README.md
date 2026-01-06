@@ -17,3 +17,7 @@
 
 ## .agent目录是Google Antigravity的专用优化目录
 1. 与.trae配置相同
+
+## .claude目录是Claude Code的专用优化目录
+1. CLAUDE.md是默认提示词
+2. mcp服务，告诉ai当前项目下有哪些可用的easycom组件，生成代码时可以使用这些组件。
