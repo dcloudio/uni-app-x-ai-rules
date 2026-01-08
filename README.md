@@ -19,6 +19,5 @@
 1. 与.trae配置相同
 
 ## .claude目录是Claude Code的专用优化目录
-1. CLAUDE.md是默认提示词
-2. settings.local.json 是本地配置
-3. [.mcp.json](./.mcp.json)文件是mcp配置
+1. .claude/rules是默认提示词
+2. [.mcp.json](./.mcp.json)文件是mcp配置
