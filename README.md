@@ -1,3 +1,7 @@
+**推荐改用[uni-agent](https://doc.dcloud.net.cn/uni-app-x/ai/)**
+
+=======以下为历史内容======
+
 ## .cursor目录，是cursor的专用优化目录。
 将该目录放到uni-app x项目下，在cursor中就可以自动应用规则。
 目前包括2部分内容：
